@@ -581,7 +581,7 @@ def main():
     print("📡 Bot Telegram serverini kutmoqda...")
     print("✅ /start ishlaydi")
     print("✅ Kanal tekshirish ishlaydi")
-    print("✅ Dasturlash tillari ishlaydi")
+    print("✅ Dasturlash tillari ishlaydi!")
     print("======================================")
     print()
 
